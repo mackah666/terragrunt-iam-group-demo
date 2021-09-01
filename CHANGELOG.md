@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/mackah666/terragrunt-iam-group-demo/compare/v1.0.0...v1.0.1) (2021-09-01)
+
+
+### Bug Fixes
+
+* correcte the file name ([e5bcbed](https://github.com/mackah666/terragrunt-iam-group-demo/commit/e5bcbed811a134c14362423e641b0f6be99fabc7))
+
 # 1.0.0 (2021-09-01)
 
 
