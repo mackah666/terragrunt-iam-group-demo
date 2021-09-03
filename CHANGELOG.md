@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mackah666/terragrunt-iam-group-demo/compare/v1.0.1...v1.1.0) (2021-09-03)
+
+
+### Features
+
+* added teams notification ([8fc866a](https://github.com/mackah666/terragrunt-iam-group-demo/commit/8fc866a62b7c9d77696b81237a83c9ea6f7e3211))
+
 ## [1.0.1](https://github.com/mackah666/terragrunt-iam-group-demo/compare/v1.0.0...v1.0.1) (2021-09-01)
 
 
