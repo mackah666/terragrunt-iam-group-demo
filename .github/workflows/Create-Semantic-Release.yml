@@ -38,3 +38,8 @@ jobs:
         run: npx semantic-release
       - name: Output Release Version
         run: cat version.txt
+
+      # This will nofity teams
+      - name: Notify Teams
+        run: |
+          ./teams_update.sh

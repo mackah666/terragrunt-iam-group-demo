@@ -5,3 +5,8 @@ variable "aws_region" {
 variable "aws_cli_profile" {
   default = "default"
 }
+
+
+variable "aws_account_id" {
+  default = "733041935482"
+}
